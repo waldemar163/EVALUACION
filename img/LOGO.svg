@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="361" height="185" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g display="inline">
+  <title>Layer 1</title>
+  <rect transform="rotate(-45 92.71677398681639,92.71678161621094) " id="svg_2" height="129" width="129" y="28.216782" x="28.216774" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ffffff" fill="#022447"/>
+ </g>
+ <g>
+  <title>Capa 2</title>
+  <rect id="svg_1" height="129" width="129" y="30.216782" x="29.216774" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ffffff" fill="#007fff"/>
+ </g>
+ <g>
+  <title>TEXTO</title>
+  <text stroke="#1335f7" transform="matrix(5.311730128431975,0,0,5.311730128431975,-549.0526552559711,-893.2021274850274) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_6" y="193.792515" x="137.096178" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#003f7f">WRF</text>
+ </g>
+ <g>
+  <title>Capa 4</title>
+  <rect id="svg_7" height="22" width="22" y="113.216782" x="315.716774" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#1335f7" fill="#06233f"/>
+  <rect id="svg_8" height="22" width="22" y="89.716782" x="338.716774" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#1335f7" fill="#06233f"/>
+  <rect id="svg_9" height="22" width="22" y="64.216782" x="338.716774" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#1335f7" fill="#06233f"/>
+  <rect stroke="#1335f7" id="svg_10" height="9.25" width="22" y="51.966782" x="338.716774" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#06233f"/>
+ </g>
+</svg>
